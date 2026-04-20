@@ -7,4 +7,4 @@ An oscilloscope and waveform generator were used to test the function of the AC 
 ## PCB
 I created this AC-to-DC PCB as one of my first PCB projects.\
 The purpose was to learn the basics of KiCAD and PCB design.\
-View the [AC-to-DC PCB](https://jasmine-gp-smith.github.io/AC-to-DC-converter/)
+View the [[3D PCB Preview](docs/AC to DC Power converter.png)](https://jasmine-gp-smith.github.io/AC-to-DC-converter/)

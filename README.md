@@ -8,7 +8,7 @@ An oscilloscope and waveform generator were used to test the function of the AC 
 I created this AC-to-DC PCB as one of my first PCB projects.\
 The purpose was to learn the basics of KiCAD and PCB design.\
 ### Schematic
-
+![3D PCB Preview](docs/ACtoDCschematic.png)
 ### BOM
 ### Stackup
 ### Layout
